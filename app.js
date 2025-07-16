@@ -289,5 +289,5 @@ const Data = [
 ]
 
 createNavbar();
-// createSlider();
+createSlider();
 DynamicCards();
